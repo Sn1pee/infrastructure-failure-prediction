@@ -1,0 +1,6 @@
+Model,Threshold,Precision,Recall,F1-Score,ROC-AUC,PR-AUC,TP,FP,FN,TN
+Decision Tree,0.05,1.0,1.0,1.0,1.0,1.0,1684,0,0,7316
+XGBoost Classifier,0.1,1.0,1.0,1.0,1.0,1.0,1684,0,0,7316
+Random Forest,0.63,1.0,1.0,1.0,1.0,1.0,1684,0,0,7316
+XGBoost (Tuned),0.48,1.0,1.0,1.0,1.0,1.0,1684,0,0,7316
+Logistic Regression (Baseline),0.94,0.978,0.9762,0.9771,0.9995,0.9981,1644,37,40,7279
