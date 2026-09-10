@@ -1,10 +1,5 @@
 # ⚡ Infrastructure Intelligence: AI-Powered IT Infrastructure Failure Prediction & Root-Cause Analytics
 
-> **End-to-End Data Science & Machine Learning Portfolio Project**  
-> *Targeted for World Wide Technology (WWT) Data Science & Data Analytics Internship Application*
-
----
-
 ## 📌 Executive Summary & Business Problem
 
 Large enterprise environments operate tens of thousands of physical servers, cloud instances, database clusters, and network switches. These systems continuously stream telemetry data (CPU load, memory pressure, disk I/O, network latency, error rates, and temperature).
