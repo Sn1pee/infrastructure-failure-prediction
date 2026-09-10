@@ -196,6 +196,5 @@ infrastructure-intelligence/
 ├── models/                   # Serialized model pickles & metadata
 ├── Dockerfile                # Docker container configuration
 ├── requirements.txt          # Python dependencies
-├── INTERVIEW_GUIDE.md        # WWT Internship interview prep guide
 └── README.md                 # Project documentation
 ```
